@@ -3,20 +3,29 @@
   "version": "1.0.4",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
-  "types": "dist/index.d.ts",
+  "types": "dist/types/component/QuickFlex.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rollup -c"
   },
-  "keywords": [],
+  "keywords": [
+    "flexbox",
+    "react",
+    "emotion",
+    "styled-components",
+    "ui-components",
+    "flex-layout"
+  ],
   "author": "Khurshida Jahan Meem",
   "license": "MIT",
-  "description": "",
-  "dependencies": {
+  "description": "A customizable Flexbox layout component for React using Emotion.",
+  "peerDependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "dependencies": {
     "tslib": "^2.7.0"
   },
   "devDependencies": {

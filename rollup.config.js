@@ -18,5 +18,14 @@ export default {
     },
   ],
   external: ["react", "@emotion/styled"],
-  plugins: [resolve(), commonjs(), typescript(), terser()],
+  plugins: [
+    resolve(),
+    commonjs(),
+    typescript({
+      tsconfig: "./tsconfig.json",
+      declaration: true,
+      declarationDir: "dist/types",
+    }),
+    terser(),
+  ],
 };
