@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Khurshida Jahan Meem",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "@emotion/react": "^11.13.3",

@@ -122,3 +122,37 @@ const App: React.FC = () => {
   );
 };
 ```
+
+## Development
+
+Feel free to contribute or modify the package, just clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/Khurshida-Meem/QuickFlex.git
+cd QuickFlex
+npm install
+```
+
+You can build the project with:
+
+```bash
+npm run build
+```
+
+## Contributing
+
+You are welcome for any contributions and ideas! Feel free to open issues or submit pull requests. Before contributing, make sure to run the tests and ensure that everything works as expected.
+
+- Fork the repository
+- Create a new branch (git checkout -b feature/your-feature)
+- Make your changes and commit them (git commit -am 'Add new feature')
+- Push the branch (git push origin feature/your-feature)
+- Create a pull request
+
+## Repository
+
+You can find the source code at: [GitHub Repo](https://github.com/Khurshida-Meem/QuickFlex).
+
+## License
+
+QuickFlex is [MIT licensed](./LICENSE).
