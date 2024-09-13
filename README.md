@@ -155,4 +155,4 @@ You can find the source code at: [GitHub Repo](https://github.com/Khurshida-Meem
 
 ## License
 
-QuickFlex is [MIT licensed](./LICENSE).
+QuickFlex is [MIT licensed](./LICENSE.md).
