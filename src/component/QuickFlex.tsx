@@ -1,7 +1,7 @@
 import styled from "@emotion/styled";
 import { QuickFlexProps } from "../propType/QuickFlexProps";
 
-export const Flex = styled.div<QuickFlexProps>`
+export const QuickFlex = styled.div<QuickFlexProps>`
   display: flex;
   justify-content: ${({ justify }) => justify || "flex-start"};
   align-items: ${({ align }) => align || "stretch"};
