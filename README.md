@@ -1,4 +1,4 @@
-# QuickFlex
+# React QuickFlex
 
 `quickflex` is a lightweight, customizable Flexbox component built with React and Emotion. It simplifies the usage of Flexbox in your React applications by providing an easy-to-use component with flexible options.
 
@@ -16,7 +16,7 @@
 You can install the package via npm:
 
 ```bash
-npm install quickflex
+npm i react-quickflex
 ```
 
 ## Usage
