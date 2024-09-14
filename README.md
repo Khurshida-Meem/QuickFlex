@@ -16,7 +16,7 @@
 You can install the package via npm:
 
 ```bash
-npm i react-quickflex
+npm i quickflex
 ```
 
 ## Usage
