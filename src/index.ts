@@ -1,1 +1,2 @@
-export * from "./component/QuickFlex";
+export * from "./QuickFlex";
+export * from "./QuickFlexProps";

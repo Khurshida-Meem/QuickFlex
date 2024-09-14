@@ -1,5 +1,5 @@
 import styled from "@emotion/styled";
-import { QuickFlexProps } from "../propType/QuickFlexProps";
+import { QuickFlexProps } from "./QuickFlexProps";
 
 export const QuickFlex = styled.div<QuickFlexProps>`
   display: flex;

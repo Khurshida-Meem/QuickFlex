@@ -1,3 +1,5 @@
+import { CSSProperties } from "react";
+
 export interface QuickFlexProps {
   justify?:
     | "flex-start"
@@ -11,5 +13,5 @@ export interface QuickFlexProps {
   wrap?: "nowrap" | "wrap" | "wrap-reverse";
   gap?: string;
   className?: string;
-  style?: any;
+  style?: CSSProperties;
 }
