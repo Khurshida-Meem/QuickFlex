@@ -1,15 +1,15 @@
 # React QuickFlex
 
-`quickflex` is a lightweight, customizable Flexbox component built with React and Emotion. It simplifies the usage of Flexbox in your React applications by providing an easy-to-use component with flexible options.
+**QuickFlex** is a **lightweight, customizable Flexbox layout component** for **React** built with **TypeScript** and **Emotion**. It simplifies building responsive layouts by providing a **flexible, declarative API** for all Flexbox properties.
 
 ## Features
 
-- Simple, declarative API to manage Flexbox layouts
-- Full control over flex properties (`justify`, `align`, `direction`, `wrap`, `gap`)
-- Written in TypeScript, with full type safety
-- Lightweight and fast, optimized for performance
-- Easily extendable with `className` or inline `style` props
-- Not dependent on any CSS libraries or frameworks
+- ✅ Declarative React API for Flexbox layouts
+- ✅ Full control over flex properties: `justify`, `align`, `direction`, `wrap`, `gap`
+- ✅ Written in **TypeScript** with full type safety
+- ✅ Lightweight and fast, optimized for performance
+- ✅ Easily extendable via `className` or inline `style`
+- ✅ No dependency on CSS frameworks
 
 ## Installation
 

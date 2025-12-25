@@ -9,11 +9,12 @@
     "build": "rollup -c"
   },
   "keywords": [
+    "react",
+    "react-flex",
     "css",
     "flex",
     "flexbox",
     "layout",
-    "react",
     "emotion",
     "ui-components",
     "flex-layout"
